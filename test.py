@@ -1,2 +1,2 @@
 def method():
-    pass
+    print("method was called")
